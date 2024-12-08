@@ -1,0 +1,2 @@
+# aluno
+meu primeiro script
